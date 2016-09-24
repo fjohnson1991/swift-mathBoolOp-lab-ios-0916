@@ -5,6 +5,7 @@
  
  //### Readings associated with this lab
  
+<<<<<<< HEAD
 // * [Switch Statements]https://github.com/learn-co-curriculum/swift-switchStatement-readme)
 // * [Booleans and Operators](https://github.com/learn-co-curriculum/swift-booleans-readme)
 // * [Conditionals](https://github.com/learn-co-curriculum/swift-conditionals-readme)
@@ -12,6 +13,12 @@
 
 
 // ❤️
+=======
+ * [Switch Statements]https://github.com/learn-co-curriculum/swift-switchStatement-readme)
+ * [Booleans and Operators](https://github.com/learn-co-curriculum/swift-booleans-readme)
+ * [Conditionals](https://github.com/learn-co-curriculum/swift-conditionals-readme)
+ 
+>>>>>>> 6200be2a0fc762ed4ca0366d5a1d3f87a8c2eb05
 
 
 //Question 1
@@ -114,6 +121,7 @@ average_f(1, b: 3, c: 5) == 3.0
 ### 14. Call average_i with values 1, 3, and 5 and test if the result is both greater than 1 and less than 5.
 */
 
+<<<<<<< HEAD
 
 (average_1(1, b: 3, c: 5) > 1) && (average_1(1, b: 3, c: 5) < 5)
 
@@ -123,3 +131,6 @@ average_f(1, b: 3, c: 5) == 3.0
 
 
 
+=======
+*/
+>>>>>>> 6200be2a0fc762ed4ca0366d5a1d3f87a8c2eb05
